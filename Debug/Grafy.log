@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\adam\documents\visual studio 2015\projects\grafy\grafy\main.cpp(437): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\grafy\grafy\main.cpp(503): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\Debug\Grafy.exe
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\Debug\Grafy.pdb (Full PDB)

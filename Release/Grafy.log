@@ -1,0 +1,15 @@
+﻿  Bellman.cpp
+  Dijkstra_Kopiec.cpp
+  Kruskal.cpp
+  Prim.cpp
+  kopiec.cpp
+kopiec.cpp(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+kopiec.cpp(124): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating code
+  52 of 304 functions (17.1%) were compiled, the rest were copied from previous compilation.
+    28 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\Release\Grafy.exe
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\Release\Grafy.pdb (Full PDB)

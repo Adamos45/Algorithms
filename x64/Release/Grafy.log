@@ -1,0 +1,43 @@
+﻿  Bellman.cpp
+  Dijkstra_Kopiec.cpp
+  kopiec.cpp
+kopiec.cpp(122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+kopiec.cpp(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Kruskal.cpp
+  lista_sasiedztw.cpp
+  main.cpp
+main.cpp(329): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(332): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(334): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(341): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(342): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(351): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(352): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(361): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(362): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(373): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(385): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(386): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(394): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(395): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(438): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(441): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(443): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(450): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(451): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(460): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(461): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(470): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(471): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(482): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(494): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(495): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(503): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(504): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  macierz_sasiedztw.cpp
+  Prim.cpp
+  Generating code
+  All 326 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\x64\Release\Grafy.exe
+  Grafy.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Grafy\x64\Release\Grafy.pdb (Full PDB)
